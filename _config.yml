@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'Studying Rocks!'
+tagline:          'Earth Science Help'
+description:      'A resource for the Earth Science Regents'
+url:              http://studying.rocks
+baseurl:          /
+
+author:
+  name:           'Matt Baxter'
+  url:            http://studying.rocks
+
+paginate:         5
